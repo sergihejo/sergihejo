@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [sergihejo.es](https://sergihejo.es)
 
-- 📫 How to reach me **sergihejo@gmail.com**
+- 📫 How to reach me **sergio@sergihejo.es**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
