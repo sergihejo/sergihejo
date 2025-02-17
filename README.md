@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Kubernetes**
-
 - 👨‍💻 All of my projects are available at [sergihejo.es](https://sergihejo.es)
 
 - 📫 How to reach me **sergio@sergihejo.es**
